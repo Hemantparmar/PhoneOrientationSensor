@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Phone Orientation</string>
+    <string name="orientation_data">Orientation Data</string>
+</resources>
